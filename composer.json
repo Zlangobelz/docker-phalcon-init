@@ -1,0 +1,6 @@
+{
+    "name": "root/www",
+    "require-dev": {
+        "phalcon/devtools": "^4.0"
+    }
+}
